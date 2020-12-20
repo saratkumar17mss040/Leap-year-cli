@@ -1,0 +1,29 @@
+{
+  "name": "leap-year-cli",
+  "version": "1.0.0",
+  "description": "A simple leap-year nodejs-cli where, it tells whether you actually born in leap year or not !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saratkumar17mss040/Leap-year-cli.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "leap-year",
+    "birthday"
+  ],
+  "author": "sarath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saratkumar17mss040/Leap-year-cli/issues"
+  },
+  "homepage": "https://github.com/saratkumar17mss040/Leap-year-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
